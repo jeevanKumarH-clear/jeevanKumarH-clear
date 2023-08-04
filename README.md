@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevankumarh-clear&label=Profile%20views&color=0e75b6&style=flat" alt="jeevankumarh-clear" /> </p>
 
-- 🔭 I’m currently working on **youtubeClone**
-
 - 🌱 I’m currently learning **bootstrap,MongoDB**
 
 - 💬 Ask me about **HTML,CSS,Javascript,React js**
